@@ -1,0 +1,31 @@
+.mtxt {
+width: 500px;
+margin: 150px;
+font-family: Raleway;
+}
+
+.mLbox {
+width: 100px;
+height: 100px;
+position: absolute;
+background-color: #201F1F;
+border-radius: 10px;
+}
+
+.mRbox {
+overflow: auto;
+width: 300px;
+height: overflow;
+background-color: #201F1F;
+opacity: 80%;
+border-radius: 10px;
+margin-left: 150px;
+}
+
+.mRwords {
+text-align:justify;
+font-size: 13px;
+color: #D2D2D2;
+height: overflow;
+padding: 20px;
+}
