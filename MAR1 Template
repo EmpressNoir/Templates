@@ -1,0 +1,52 @@
+ .nMARw {
+  width: 450px;
+  height: 700px;
+  top: 10px;
+  left: 400px;
+  position: relative;
+  background: #000000;
+  }  
+  
+.nMARt {
+width: 400px;
+height: 200px;
+background-size: 400px;
+opacity: 80%;
+position: static;
+}
+  
+.nMARb {
+ width: 350px;
+ height: 449px;
+ background: rgba(40, 40, 40);
+ border-right: solid 1px #a30b00;
+ border-top: solid 1px #a30b00;
+ padding: 25px;
+ position: absolute;
+ }
+  
+ .nMARwt {
+text-align: justify;
+height: 433px;
+position: relative;
+font-size: 13px;
+color: #B6B6B6;
+padding: 20px;
+overflow-x: hidden;
+overflow-y: scroll;
+}
+
+.nMARst {
+ Position: absolute;
+ color: #ffffff;
+ width: 600px;
+ transform: rotate(90deg);
+ font: bold 25px Raleway;
+ letter-spacing: 5px;
+ text-transform: uppercase;
+ margin: 290px 0px 0px 100px;
+ z-index: 1;
+ }
+  
+::-webkit-scrollbar {
+  width: 10px; }
